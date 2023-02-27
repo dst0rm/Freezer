@@ -1,0 +1,6 @@
+psutil
+keyboard
+qdarktheme
+PyQt5
+configparser
+PyInstaller
